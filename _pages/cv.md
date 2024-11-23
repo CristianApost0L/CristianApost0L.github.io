@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: my_cv.pdf
-description: This is my cv, you can also download by click the pdf button.
+description: You can download my CV by clicking the "PDF" icon.
 toc:
   sidebar: left
 ---
