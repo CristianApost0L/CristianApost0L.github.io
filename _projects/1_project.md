@@ -2,7 +2,7 @@
 layout: page
 title: Oscilloscope with ATmega 2560
 description: Oscilloscope on ATmega 2560
-img: assets/img/oscilloscope.jpg
+img: assets/img/oscilloscope.png
 importance: 1
 category: completed
 ---
