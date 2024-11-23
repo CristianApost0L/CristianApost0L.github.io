@@ -4,7 +4,7 @@ title: Oscilloscope with ATmega 2560
 description: Oscilloscope on ATmega 2560
 img: assets/img/oscilloscope.jpg
 importance: 1
-category: complated
+category: completed
 ---
 
 A guide to building an oscilloscope with ATmega2560 that makes use of gnuplot for graph printing.
