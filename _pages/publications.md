@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Not Yet
+title: Publications
+description: Not Yet.
 nav: true
 nav_order: 2
 ---
