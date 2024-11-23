@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🧑‍🎓 I'm a 22-year-old Computer Engineer passionate about blending creativity and technology to build innovative solutions.
-💻 Proficient in programming languages including C/C++, Java, Python, SQL, JavaScript, and Ruby, with hands-on experience in developing efficient and scalable software.
-🌱 Currently immersing myself in Machine Learning 🤖 and Cybersecurity 🔒, exploring the cutting-edge advancements in these fields.
-👀 Deeply intrigued by Deep Learning, Algorithms, and Cryptography, with a keen interest in applying theoretical knowledge to solve real-world problems.
-🌟 A dedicated lifelong learner, I thrive in dynamic environments, always eager to embrace new challenges, collaborate with others, and grow both personally and professionally.
-🔧 Whether it's debugging code or designing complex systems, I find joy in the details and pride in delivering impactful results.
+I hold a Bachelor's degree in Engineering in Computer Science and am currently pursuing a Master's degree in Computer Science.
+Procient in C/C++, Java, Python, SQL, JavaScript, and Ruby, I have hands-on experience in developing ecient and scalable software solutions.
+I am currently delving into advanced topics in Machine Learning and Cybersecurity, driven by a desire to contribute to innovative solutions in these elds.
+Deeply passionate about learning, I am fascinated by topics such as Deep Learning, Algorithms, Cryptography, and the broader connections between technology, reasoning, and engineering.
+Beyond technology, I nd inspiration in cinema, music, and science, which fuel my curiosity and creativity.
+I am a lifelong learner who thrives on uncovering new knowledge and embracing challenges, always eager to grow both personally and professionally in dynamic environments.
