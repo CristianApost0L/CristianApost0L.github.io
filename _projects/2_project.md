@@ -2,7 +2,7 @@
 layout: page
 title: SQLi ML defense
 description: 
-img: assets/img/3.jpg
+img: assets/img/slqi.png
 importance: 2
 category: completed
 ---
