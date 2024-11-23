@@ -2,7 +2,7 @@
 layout: page
 title: DunkZone
 description: NBA app for statistics
-img: assets/img/7.jpg
+img: assets/img/dunkzone.jpg
 importance: 2
 category: completed
 ---
