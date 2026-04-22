@@ -14,6 +14,8 @@ jobs:
   check:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -42,6 +44,7 @@ jobs:
           retention-days: 7
       - name: Dispatch information to repository 🗣️
         if: ${{ failure() && steps.prettier.conclusion == 'failure' && github.event_name == 'pull_request' }}
+        continue-on-error: true
         uses: peter-evans/repository-dispatch@v2
         with:
           event-type: prettier-failed-on-pr
